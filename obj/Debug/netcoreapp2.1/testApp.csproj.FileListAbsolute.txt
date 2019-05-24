@@ -1,0 +1,16 @@
+/home/fellowminds/Documents/testApp/bin/Debug/netcoreapp2.1/testApp.deps.json
+/home/fellowminds/Documents/testApp/bin/Debug/netcoreapp2.1/testApp.runtimeconfig.json
+/home/fellowminds/Documents/testApp/bin/Debug/netcoreapp2.1/testApp.runtimeconfig.dev.json
+/home/fellowminds/Documents/testApp/bin/Debug/netcoreapp2.1/testApp.dll
+/home/fellowminds/Documents/testApp/bin/Debug/netcoreapp2.1/testApp.pdb
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.csprojAssemblyReference.cache
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.csproj.CoreCompileInputs.cache
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.RazorAssemblyInfo.cache
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.RazorAssemblyInfo.cs
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.AssemblyInfoInputs.cache
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.AssemblyInfo.cs
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.RazorTargetAssemblyInfo.cache
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.dll
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.pdb
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.Resource.resources
+/home/fellowminds/Documents/testApp/obj/Debug/netcoreapp2.1/testApp.csproj.GenerateResource.cache
