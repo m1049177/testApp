@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
+//value controller
 namespace testApp.Controllers
 {
     [Route("api/[controller]")]
@@ -14,7 +15,7 @@ namespace testApp.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1 hello", "value2 world" };
         }
 
         // GET api/values/5
