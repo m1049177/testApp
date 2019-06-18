@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: samplewebapiproject
-        image: 
+        image: myregistrykubernetes.azurecr.io/m1049177/testapp:#{Build.BuildId}# 
         resources: {}
         terminationMessagePath: "/dev/termination-log"
         terminationMessagePolicy: File
